@@ -1,4 +1,4 @@
-# 📱 Proyecto Final - Aplicación de Gestiíon de Datos
+# 📱 Proyecto Final - Aplicación de Gestión de Datos
 
 Este repositorio contiene el proyecto final que permite gestionar datos a través de un archivo `.json`. La aplicación cuenta con las siguientes características clave:
 
