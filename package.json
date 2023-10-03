@@ -1,0 +1,12 @@
+{
+  "name": "pl-project-08-datamanagementapp",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el proyecto final que permite gestionar datos a través de un archivo `.json`. La aplicación cuenta con las siguientes características clave:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
