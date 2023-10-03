@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	box-sizing: border-box;
+	color: black;
+}
+
+.ligas {
+	margin: 1rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+.logo {
+	flex: 1;
+	height: 80px;
+	object-fit: contain;
+}
+
+.league-score {
+	height: 80px;
+	object-fit: contain;
+}
+
+.card {
+	width: 300px;
+	padding: 0.5rem;
+	border-radius: 10px;
+	background-color: cadetblue;
+	border: black 1px solid;
+}
+
+.card .card-header {
+	display: flex;
+}
+
+.card-inner {
+	flex: 1;
+	text-align: center;
+}
